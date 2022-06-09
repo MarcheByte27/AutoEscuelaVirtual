@@ -1,0 +1,31 @@
+<table width="80%" class="tabla">
+			<tr >
+				<th> HORA <th/>
+				<th>Lunes</th>
+				<th>Martes</th>
+				<th>Dirección</th>
+				<th>Teléfono</th>
+				<th>Edad</th>
+				<th>Curso Intensivo</th>
+				<th>Tipo Carnet</th>
+			</tr>
+			
+					<tr>
+							<td> 8:50 </td>
+							<td> LENGUA </td>
+							<td>  </td>
+							<td>  </td>
+							<td>  </td>
+							<td>  </td>
+							<td>  </td>
+							<td> </td>
+						
+					</tr>
+					<tr>
+							<td> 10:50 </td>
+							<td> LENGUA </td>
+							<td>  </td>
+						
+					</tr>
+
+		</table>

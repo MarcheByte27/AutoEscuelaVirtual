@@ -1,4 +1,4 @@
 # AutoescuelaVirtual
- Es un prototipo de una páginaweb para una autoescuela
+ Es un prototipo de una página web para una autoescuela
 
-En el pdf es visualmente la página web, además tiene un link de un vídeo en el que se ve la página web funcionando correctamente.
+En el archivo PagWebAutoEscuelaVirtual.pdf, se muestra como es visualmente mediante fotos, además tiene un link de un vídeo en el que se ve como funciona la página web.
